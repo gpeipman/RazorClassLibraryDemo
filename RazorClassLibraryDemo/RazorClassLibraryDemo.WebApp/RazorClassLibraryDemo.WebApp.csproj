@@ -9,8 +9,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\RazorClassLibraryDemo.Lib\RazorClassLibraryDemo.Lib.csproj" />
-  </ItemGroup>
-
 </Project>
