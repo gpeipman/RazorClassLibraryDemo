@@ -1,14 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibraryDemo.WebApp", "RazorClassLibraryDemo.WebApp\RazorClassLibraryDemo.WebApp.csproj", "{743DBC7A-F588-41B5-B68C-E994D9D0F5C9}"
-	ProjectSection(ProjectDependencies) = postProject
-		{90E1AD7C-CD6F-494E-9301-2A3938A7072A} = {90E1AD7C-CD6F-494E-9301-2A3938A7072A}
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorClassLibraryDemo.WebApp", "RazorClassLibraryDemo.WebApp\RazorClassLibraryDemo.WebApp.csproj", "{743DBC7A-F588-41B5-B68C-E994D9D0F5C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibraryDemo.Lib", "RazorClassLibraryDemo.Lib\RazorClassLibraryDemo.Lib.csproj", "{90E1AD7C-CD6F-494E-9301-2A3938A7072A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibraryDemo.Lib", "RazorClassLibraryDemo.Lib\RazorClassLibraryDemo.Lib.csproj", "{5627BE87-49A9-4819-B740-FE24B7256779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{743DBC7A-F588-41B5-B68C-E994D9D0F5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{743DBC7A-F588-41B5-B68C-E994D9D0F5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{743DBC7A-F588-41B5-B68C-E994D9D0F5C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90E1AD7C-CD6F-494E-9301-2A3938A7072A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90E1AD7C-CD6F-494E-9301-2A3938A7072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90E1AD7C-CD6F-494E-9301-2A3938A7072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90E1AD7C-CD6F-494E-9301-2A3938A7072A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5627BE87-49A9-4819-B740-FE24B7256779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5627BE87-49A9-4819-B740-FE24B7256779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5627BE87-49A9-4819-B740-FE24B7256779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5627BE87-49A9-4819-B740-FE24B7256779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
